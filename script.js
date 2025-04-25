@@ -18,7 +18,7 @@ let songs = [
 
  <p>duration: "3:20"</p>,
 
- <p></p>liked: true Favorite</p>,
+ <p>liked: true Favorite</p>,
 
  audio:
 
